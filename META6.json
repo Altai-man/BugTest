@@ -1,0 +1,21 @@
+{
+  "name" : "Foo-Bar",
+  "source-url" : "",
+  "support" : {
+    "source" : null
+  },
+  "perl" : "6.c",
+  "license" : "GPL-3.0",
+  "provides" : {
+    "Foo::Bar" : "lib/Foo/Bar.pm6"
+  },
+  "version" : "0.1",
+  "meta-version" : "0",
+  "authors" : [
+    "Altai-man"
+  ],
+  "resources" : [
+    "file.txt"
+   ],
+  "description" : "Test distro"
+}
